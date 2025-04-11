@@ -6,7 +6,7 @@ I'm a Python developer passionate about clean code, automation, and solving real
 - 🔭 Currently working on personal projects and open source contributions
 - 🌱 Learning more about Django, FastAPI, and cloud deployment
 - 💬 Ask me anything about Python, scripting, or backend development
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: matheusfantineli@gmail.com
 
 #### 🛠️ Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
